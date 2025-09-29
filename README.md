@@ -98,8 +98,8 @@ This project is licensed under the MIT License.
 ## 📊 Diagrams
 
 For better understanding:
-- [Flowchart of Program Execution](diagram.png)
-- [UML Class Diagram](docs/uml.png)
+- [Flowchart of Program Execution]diagram.png
+
 
 👨‍💻 Author
 
